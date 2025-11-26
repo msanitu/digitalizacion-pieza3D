@@ -4,6 +4,7 @@
 - [Guía de impresión](#guía-de-impresión)
   - [Cuando imprimir](#cuando-imprimir)
   - [CHECKLIST](#checklist)
+  - [A tener en cuenta](#a-tener-en-cuenta)
 
 ## Cuando imprimir
 
@@ -17,3 +18,7 @@ La impresora se utlizará al finalizar las clase, ya que esta está dentro de un
 4. Enviar archivo a la impresora por red o usar usb y activar la impresora 
 5. Poner el cartel de no apagar el magnetotérmico.
     
+
+## A tener en cuenta
+
+1. Extraer siempre el plato de impresión para manipular las piezas

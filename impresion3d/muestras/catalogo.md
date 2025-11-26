@@ -15,3 +15,6 @@
 | [Lagarto Articulado](<sare_flex_YerayGarrido/sare_flex.md>) | <img src="sare_flex_YerayGarrido/lagarto_3d.jpg" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
 | [Moai](<Ivan-Octa/Read.md>) | <img src="Ivan-Octa/image.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
 | [Sinji](<Dani_Iker/index.md>) | <img src="Dani_Iker/image (1).png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
+| [Mamua](<Jon Ander/Mamua.md>) | <img src="Jon Ander/image.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
+| [Caza](<caza/dokumentazioa>) | <img src="caza/image.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
+| [LOTR Anillo](<Egoitz/Kaixo.md>) | <img src="Egoitz/irudia.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
