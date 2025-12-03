@@ -112,6 +112,11 @@ Para ver lo que está experimentando cada alumno, utiliza el programa TeamViewer
 
   - **💥 Riesgo de Colisión:** La arena virtual es mayor que el espacio físico. Es crucial cambiar el tamaño de la arena en el programa VIROO o considerar dejar de usar la sala como aula.
 
+  - **🖥️ Problemas de Conexión a la sesión:** A veces, los equipos no se conectan bien a la sesión, es importante comprobar a traves de vnc que viroo monitor está conectado al servidor, y verificar que la versión del programa en ejecución coincide con la de viroo room player.
+
+<img src="image.png" alt="error viroo monitor" width="400"/>
+
+
 **📞 Contacto y Soporte**
 
 👤 Mikel Dalmau
