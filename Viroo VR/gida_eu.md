@@ -1,4 +1,4 @@
-# 🇪🇸 🥽 VIROO Errealitate Birtualeko Aretoaren Erabilera Gidarekin
+# 🥽 VIROO Errealitate Birtualeko Aretoaren Erabilera Gidarekin
 
 <img src="talde.png" alt="Viroo Logo" width="800"/>
 

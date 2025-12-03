@@ -1,4 +1,4 @@
-# 🇪🇸 🥽 Guía Básica de Uso de la Sala de Realidad Virtual VIROO
+# 🥽 Guía Básica de Uso de la Sala de Realidad Virtual VIROO
 
 <img src="talde.png" alt="Viroo Logo" width="800"/>
 
@@ -19,8 +19,8 @@
 
   - **✅ Confirmar Disponibilidad:**
 ⚠️ Es OBLIGATORIO comprobar la disponibilidad en el horario antes de planificar la sesión.
-🔗 Consulta el horario a través de este enlace: [GLPI]()
-ℹ️ Si necesitas asistencia, los viernes, Mikel Dalmau está disponible de 8:30 a 9:30 o a partir de las 10:30 (con previo aviso).
+🔗 Consulta el horario a través de este enlace: [GLPI](https://glpi.zornotzalh.eus/front/reservation.php?reservationitems_id=13)
+ℹ️ Si necesitas asistencia, los viernes, Mikel Dalmau mdalmau@fpzornotzalh.eus está disponible de 8:30 a 9:30 o a partir de las 10:30 (con previo aviso).
 
 -----
 
@@ -53,6 +53,8 @@ Desplaza todas las mesas y sillas hacia los lados del aula para dejar el mayor e
   - **Paso 5: 🖥️ Encender y Acceder al Servidor:**
 Enciende el Equipo Servidor.
 🔑 Accede al sistema operativo utilizando las credenciales proporcionadas. 
+
+<image src="server.jpg" width="200px"></image>
 
   - **Paso 7: 🥽 Abrir y Encender los Visores VR:**
 🔑 Abre el armario de los visores. La llave se encuentra dentro del rack de ordenadores en la parte superior.
