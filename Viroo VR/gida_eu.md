@@ -1,7 +1,3 @@
-Claro, aquí tienes la traducción al euskara manteniendo todas las referencias y el formato:
-
----
-
 # 🇪🇸 🥽 VIROO Errealitate Birtualeko Aretoaren Erabilera Gidarekin
 
 <img src="talde.png" alt="Viroo Logo" width="800"/>
@@ -118,7 +114,3 @@ Ikusi ikasle bakoitzak zer esperimentatzen duen, TeamViewer programa erabiliz ze
 📧 [mdalmau@fpzornotzalh.eus](mailto:mdalmau@fpzornotzalh.eus)
 
 🕒 Areto 3D Laguntza: Ostiraletan, aurrez abisatuta. 08:30-09:30 edo 10:30tik aurrera.
-
----
-
-Si necesitas alguna modificación adicional o algo más, avísame.
