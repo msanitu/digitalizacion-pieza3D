@@ -1,4 +1,9 @@
-# 🇪🇸 🥽 Guía Básica de Uso de la Sala de Realidad Virtual VIROO (Texto Plano)
+# 🇪🇸 🥽 Guía Básica de Uso de la Sala de Realidad Virtual VIROO
+
+<img src="talde.png" alt="Viroo Logo" width="800"/>
+
+
+-----
 
   - [🇪🇸 Guía Básica de Uso de la Sala de Realidad Virtual VIROO (Texto Plano)](https://www.google.com/search?q=%23-gu%C3%ADa-b%C3%A1sica-de-uso-de-la-sala-de-realidad-virtual-viroo-texto-plano)
       - [1. 🗓️ Preparación Previa y Reserva (Paso Obligatorio)](https://www.google.com/search?q=%231-preparaci%C3%B3n-previa-y-reserva-paso-obligatorio)
@@ -14,7 +19,7 @@
 
   - **✅ Confirmar Disponibilidad:**
 ⚠️ Es OBLIGATORIO comprobar la disponibilidad en el horario antes de planificar la sesión.
-🔗 Consulta el horario a través de este enlace: [enlace al horario de la sala]
+🔗 Consulta el horario a través de este enlace: [GLPI]()
 ℹ️ Si necesitas asistencia, los viernes, Mikel Dalmau está disponible de 8:30 a 9:30 o a partir de las 10:30 (con previo aviso).
 
 -----
@@ -22,28 +27,45 @@
 ## 2\. 🏗️ Acondicionamiento del Espacio
 
   - **Paso 1: 🧹 Despejar la Zona de Juego:**
-Desplaza todas las mesas y sillas hacia los lados del aula para dejar el mayor espacio posible. [Foto de la sala con mesas desplazadas]
+Desplaza todas las mesas y sillas hacia los lados del aula para dejar el mayor espacio posible. 
 
   - **Paso 2: 💡 Ajustar Iluminación:**
 🕶️ Asegúrate de que las persianas estén completamente cerradas.
 🔆 Verifica que la luz de la sala esté encendida.
 
+
+<image src="sala.jpg" alt="Sala Despejada" width="400"/>
+
+
 ## 3\. 🔌 Puesta en Marcha de los Equipos (VIROO)
 
   - **Paso 3: 🔓 Abrir el Rack de Equipos:**
-Ireki el rack deslizando la manilla. No es necesario utilizar ninguna llave. [Foto del rack]
+  Ireki el rack deslizando la manilla. No es necesario utilizar ninguna llave. 
 
   - **Paso 4: 💻 Encender Equipos de Visores (PCs):**
     🔢 Los equipos y visores están numerados del 1 al 5.
-⚡ Enciende SOLO la cantidad de equipos que correspondan a los visores que vayas a utilizar. [Foto de los equipos]
+⚡ Enciende SOLO la cantidad de equipos que correspondan a los visores que vayas a utilizar, pulsando el botón de encendido en cada uno.
+
+
+<image src="rack.jpg" alt="Sala Despejada" width="400"/>
+
 
   - **Paso 5: 🖥️ Encender y Acceder al Servidor:**
-Piztu el Equipo Servidor.
-🔑 Accede al sistema operativo utilizando las credenciales proporcionadas.
+Enciende el Equipo Servidor.
+🔑 Accede al sistema operativo utilizando las credenciales proporcionadas. 
 
   - **Paso 7: 🥽 Abrir y Encender los Visores VR:**
-🔑 Abre el armario de los visores. La llave se encuentra dentro del rack. [Foto del armario y la ubicación de la llave]
-🔘 Enciende cada visor manteniendo pulsado el botón de encendido. [Foto del botón de encendido del visor]
+🔑 Abre el armario de los visores. La llave se encuentra dentro del rack de ordenadores en la parte superior.
+🔘 Enciende cada visor manteniendo pulsado el botón de encendido. 
+
+| Armario de visores | 
+| --- | 
+| <image src="armariovisores.jpg" alt="Armario de Visores" width="400"/> | 
+
+| Botón de encendido | 
+| --- | 
+| <image src="visor.jpg" alt="Botón de Encendido del Visor" width="400"/> |
+
 
 ## 4\. ▶️ Inicio de la Sesión VIROO
 
@@ -57,15 +79,19 @@ En la pestaña de Sesiones, visible en el panel lateral izquierdo.
 ![alt text](image-3.png)
 
   - **Paso 10: ➕ Asignar Visores a la Sesión:**
-Una vez creada la sesión, agrega los visores que has encendido a la misma. 
-![Foto de la captura de pantalla en el programa mostrando la ubicación de esta opción](addtoscene_es.png)
+Una vez creada la sesión, agrega los visores que has encendido a la misma, dando a Launch.
+![Foto de la captura de pantalla en el programa mostrando la ubicación de esta opción](sesionadd.png)
 
-  **👁️ Seguimiento y Asistencia (TeamViewer)**
+  **👁️ Seguimiento y Asistencia (VNC)**
 Para ver lo que está experimentando cada alumno, utiliza el programa TeamViewer en el servidor, eligiendo el equipo que deseas ver y utilizando la contraseña correspondiente.
 
-<img src="image-4.png" alt="team viewer logo" width="100"/>
+<img src="vnc.png" alt="team viewer logo" width="100"/>
 
-[Documentación Oficial VIROO, Interfaz del Room Player](https://virooportal.virtualwareco.com/docs/2.6/viroo-players/room-player/interface/interface.html)
+
+#### Documentación
+
+- [Guia de Uso (ES) - VIROO Room Player](<VIROO® Room Player v2.6 - Guía de Uso (ES).pdf>)
+- [Documentación Oficial VIROO, Interfaz del Room Player](https://virooportal.virtualwareco.com/docs/2.6/viroo-players/room-player/interface/interface.html)
 
 
 -----
