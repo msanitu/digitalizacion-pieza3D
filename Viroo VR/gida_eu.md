@@ -49,6 +49,8 @@
   Piztu Zerbitzari Ekipoa.
   🔑 Sisteman sartu emandako kredentzialekin.
 
+<image src="server.jpg" width="200px"></image>
+
 * **7. Pausoa: 🥽 VR Bisoreak Ireki eta Piztea:**
   🔑 Ireki bisoreen armairua. Giltza rack-aren goiko aldea dago.
   🔘 Piztu bisore bakoitza pizteko botoia sakatuz.
